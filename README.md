@@ -1,0 +1,2 @@
+# kurioshop
+store
